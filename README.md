@@ -1,6 +1,4 @@
-# Cafe-menu
+## Cafe-menu
 
-* This is a basic menu design made in html and css.
-* This helps in understanding the design.
-* You can view this website in your browser after cloning tis project and opening it with the help of **live server** extension of VS code.
-* I made this step by step on [freeCodeCamp](https://www.freecodecamp.org/) in the course Responsive Web Design while learning HTML and CSS. You can also get certification upon its completeion.
+* CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements. In this project, you'll learn CSS by designing a menu page for a cafe webpage.
+* You can learn this on [freeCodeCamp](https://www.freecodecamp.org/) step by step.
